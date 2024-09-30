@@ -4,7 +4,7 @@
 This Decentralized Finance (DeFi) Application is a digital banking platform that allows users to deposit cryptocurrency and earn interest on their deposits. Built using JavaScript and React, the app leverages the Ethereum blockchain to enable staking and rewards through secure and private smart contracts. The app tracks users' staked assets and rewards in real time, displaying current balances and interest earned via a responsive frontend.
 
 **Features:**
-Crypto Deposits with Interest: Users can deposit cryptocurrency and earn interest over time through staking.
+Crypto Deposits with Interest: Users can deposit cryptocurrency and earn interest over time through staking. <br />
 Ethereum Smart Contracts: Secure, private interactions for staking and reward distribution using Ethereum-based smart contracts.
 Real-time Balance Display: Users can view their staked assets and earned rewards in real-time, thanks to efficient data mapping structures.
 Secure Transactions: All staking and reward mechanisms are conducted privately and securely on the blockchain.
